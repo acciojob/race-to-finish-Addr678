@@ -1,4 +1,4 @@
-window.promises = [];
+//window.promises = [];
 const promises = [
   createPromise(1, 5),
   createPromise(1, 5),
